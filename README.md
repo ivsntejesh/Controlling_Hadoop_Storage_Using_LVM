@@ -6,3 +6,7 @@ This repo has the code for integrating LVM with hadoop cluster. Using LVM concep
 In this I have created a cluster with name node, data node, and client.
 
 I have integrated LVM and Hadoop. 
+
+The file set-up.py helps in configureing Name node, Data node, and Client. It aslo have code for AWS menu which helps in performing different tasks of AWS services.
+
+I am also attaching file of install.py which helps in downloading hadoop into your system automatically. 
