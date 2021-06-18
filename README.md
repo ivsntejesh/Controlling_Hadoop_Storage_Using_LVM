@@ -1,4 +1,5 @@
-# Task-7
+# Controlling the hadoop storage using LVM
+
 This is ARTH Task-7 repo 
 
 This repo has the code for integrating LVM with hadoop cluster. Using LVM concept we can increase the size of the datanode on the fly without any distrubance to the present data in the node.
